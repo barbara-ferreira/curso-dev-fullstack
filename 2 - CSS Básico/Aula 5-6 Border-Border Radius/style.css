@@ -1,0 +1,20 @@
+body{
+    background: #dfdfdf;
+}
+
+p {
+    color: rgb(34, 34, 34);   
+}
+
+.foto-principal {
+    width: 200px;
+    border: 2px solid #FFFFFF; /* shorthand */
+    border-radius: 50% 10% 30% 70%; /* bordas arredondadas em px. Caso queira redondo 50% */
+    /* border radius valores em ordem horária a partir do canto superior esquerdo */
+    /*
+    border-width: 5px;
+    border-style:solid;
+    border-color: black;
+    Outro exemplo de como dar o mesmo comando border
+    */
+}
