@@ -1,0 +1,16 @@
+body {
+    background: url(https://www.significadofacil.com/wp-content/uploads/2019/07/background-1200x800.jpg)
+}
+
+ul {
+    background: grey;
+    padding: 20px;
+    opacity: 0.9;
+    /* display none esconde um determinado elemento removendo ele da tela e desocupando a área em que ele estava na tela.
+    Visibility Hidden  também esconde um determonado elemento mas não desocupa a área. */
+}
+
+ul li {
+    display: inline;
+    margin: 20px;
+}
